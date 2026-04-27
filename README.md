@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Product Data Analysis (Amazon Dataset)
+# 🛒 Amazon-product-analysis-python
 
 ## 📌 Project Overview
 This project performs **exploratory data analysis (EDA)** on an Amazon e-commerce product dataset.  
